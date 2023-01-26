@@ -1,0 +1,21 @@
+$colorcontenido:black;
+$centrado: center;
+
+
+.contenido {
+    h1{
+        color: $colorcontenido;
+        padding: 1em;
+        text-align: $centrado;
+        margin: 0.5em 0.5em 0.5em 0.5em;
+        border: 10px hidden white;
+    }
+    .section__general{
+        h2{
+            color: $colorcontenido;
+            text-align: $centrado;
+            margin: 1em;
+            padding: 2em;
+        }
+    }
+}
