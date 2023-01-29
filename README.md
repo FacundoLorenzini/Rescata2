@@ -1,2 +1,2 @@
 # Rescata2
-Proyecto pagina web Coderhouse Segunda Entrega
+Proyecto pagina web Coderhouse Tercera Entrega
