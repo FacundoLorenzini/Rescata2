@@ -32,6 +32,26 @@
   margin: 0 auto;
 }
 
+.tabla {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.fundamento__rendicion {
+  margin-right: 3em;
+  margin-left: 3em;
+}
+
+.donar__ahora {
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+.forma__pago {
+  text-decoration: none;
+  font-size: 2em;
+}
+
 * {
   padding: 0;
   margin: 0;
