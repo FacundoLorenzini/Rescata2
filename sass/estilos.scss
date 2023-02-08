@@ -86,6 +86,12 @@ h1 {
     border: 10px hidden white;
 }
 
+.parrafo__inicial {
+    margin: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
 h3 {
     color: black;
     text-align: center;
@@ -187,6 +193,7 @@ footer {
     margin: 2px;
     align-self: center;
 }
+
 .amor {
     display: flex;
     flex-direction: column;
@@ -377,7 +384,7 @@ footer {
         }
 
         .gracias__donaciones {
-            font-size: $tamano - 0.3;
+            font-size: $tamano - 0.2;
         }
     }
 
@@ -448,7 +455,7 @@ footer {
         }
 
         .gracias__donaciones {
-            font-size: $tamano - 0.3;
+            font-size: $tamano + 0.3;
         }
     }
 

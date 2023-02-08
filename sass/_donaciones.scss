@@ -4,15 +4,18 @@ $medida: 1em;
     margin-left: $medida;
     margin-right: $medida;
 }
-.fundamento__rendicion{
-margin-right: $medida *3;
-margin-left: $medida*3;
+
+.fundamento__rendicion {
+    margin-right: $medida *3;
+    margin-left: $medida*3;
 }
-.donar__ahora{
+
+.donar__ahora {
     margin-left: $medida*4;
     margin-right: $medida*4;
-    }
-.forma__pago{
+}
+
+.forma__pago {
     text-decoration: none;
     font-size: $medida*2;
 }
